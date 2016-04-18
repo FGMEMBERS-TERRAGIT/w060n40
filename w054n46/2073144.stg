@@ -1,0 +1,6 @@
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -53.9433333 46.8751944 -0.88 83.24
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -53.9505556 46.8816667 0 135.94
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -53.9501667 46.8793333 -0.02 228.11
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -53.9508928 46.8799221 -0.01 95.16
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -53.9508333 46.8816667 0 251.83
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -53.9497309 46.8786971 -0.02 172.43
