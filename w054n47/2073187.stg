@@ -1,0 +1,14 @@
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -53.2323333 47.549 1.62 167.58
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -53.2318333 47.5493333 1.48 144.61
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -53.2130556 47.5841667 -0.01 293.07
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -53.03 47.5083333 -0.12 350.26
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -53.2483333 47.5938333 -0.03 218.2
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -53.2326667 47.549 1.66 7.33
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -53.232 47.5495 1.46 244.82
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -53.2122222 47.5840278 -0.02 282.11
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -53.2116667 47.5849167 -0.01 287.29
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -53.2121389 47.5851389 -0.01 240.77
+OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -53.2083889 47.5846111 -0.03 14.82
+OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -53.0458333 47.5375 -0.4 69.2
+OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -53.0223333 47.5791667 -0.4 212.65
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac -53.0025 47.5505556 -0.14 200.32

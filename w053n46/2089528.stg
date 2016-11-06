@@ -1,0 +1,8 @@
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -52.9456944 46.9269444 0 134.65
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -52.9436111 46.9255556 0 266.35
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -52.9461111 46.9275833 0 351.14
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -52.9444722 46.9263056 0 107.69
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -52.9113889 46.9695833 0 66.15
+OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -52.9386111 46.9716667 0 88.74
+OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -52.9304167 46.9163611 -0.01 297.91
+OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -52.9131944 46.9074722 -0.28 252.06
