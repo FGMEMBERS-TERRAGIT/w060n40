@@ -334,6 +334,7 @@ OBJECT_SHARED Models/Maritime/Civilian/Ponton-T.ac -56.1891444 46.7788931 0 140
 OBJECT_SHARED Models/Maritime/Civilian/SuperTanker.xml -56.1753054 46.7915591 0 120
 OBJECT_SHARED Models/Aircraft/DR400-red.xml -56.1816273 46.7639788 9.66 0
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -56.1588694 46.7919613 0 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -56.1538786 46.7651073 -2.4 0
 OBJECT_SHARED Models/Aircraft/EC-135-Gendarmerie.xml -56.1821748 46.7637774 9.85 0
 OBJECT_SHARED Models/Airport/kakrterminal.ac -56.1796843 46.7650204 9.6 104.5
 OBJECT_SHARED Models/Airport/hangar_15x25m.ac -56.1808024 46.764466 9.62 35.6
