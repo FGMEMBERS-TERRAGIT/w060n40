@@ -6,7 +6,6 @@ OBJECT_SHARED Models/Residential/ad2.xml -56.1902854 46.7911665 131.38 0
 OBJECT_SHARED Models/Airport/caisses1.xml -56.1803197 46.7648505 9.71 0
 OBJECT_SHARED Models/Airport/caisses2.xml -56.1805445 46.7648014 9.81 0
 OBJECT_SHARED Models/Airport/caisses3.xml -56.1805558 46.7650153 10.05 0
-OBJECT_SHARED Models/Airport/caisses_services.xml -56.1809018 46.764784 9.81 0
 OBJECT_SHARED Models/Airport/cargobox.xml -56.1812549 46.7645773 9.98 0
 OBJECT_SHARED Models/Airport/cargoim.xml -56.181345 46.7645382 9.99 0
 OBJECT_SHARED Models/Aircraft/DR221.xml -56.1814207 46.764086 9.6 0
