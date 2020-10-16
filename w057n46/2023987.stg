@@ -428,3 +428,8 @@ OBJECT_SHARED Models/Residential/Laundry_10x9.ac -56.1842145 46.7784167 44.08 0
 OBJECT_SHARED Models/Residential/Laundry_10x9.ac -56.1834696 46.7723605 6.64 0
 OBJECT_SHARED Models/Residential/Laundry_10x9.ac -56.1823571 46.7806692 27.5 0
 OBJECT_SHARED Models/Residential/Laundry_10x9.ac -56.1787321 46.7763178 11.03 0
+OBJECT_SHARED Models/Maritime/Misc/PhareCalais.ac -56.1661138 46.7813652 -0.01 0
+OBJECT_SHARED Models/Maritime/Misc/PhareCalais.ac -56.1539208 46.7651261 0 0
+OBJECT_SHARED Models/Maritime/Misc/PhareCalais.ac -56.1539083 46.7651452 0 0
+OBJECT_SHARED Models/Maritime/Misc/PhareCalais.ac -56.1483613 46.7985992 -0.06 0
+OBJECT_SHARED Models/Maritime/Misc/PhareCreach.ac -56.1545404 46.7817138 -0.02 0

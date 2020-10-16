@@ -10,6 +10,13 @@ OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -52.9805556 47.5201389 1.14 121.7
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -52.9760833 47.5179444 -0.04 14.7
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -52.9745833 47.5195 -0.04 71.83
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -52.972 47.5208056 -0.02 32.98
+OBJECT_SHARED Models/Misc/breton-church.ac -52.8866941 47.5902869 46.61 150
+OBJECT_SHARED Models/Misc/breton-church.ac -52.7552518 47.5375567 112.33 0
 OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -52.9959722 47.5137778 4.59 204.99
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -52.886764 47.5928756 0 301.52
 OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -52.9577778 47.5725 -0.28 124.51
+OBJECT_SHARED Models/Misc/church36m_red.ac -52.8035434 47.519568 121.7 90
+OBJECT_SHARED Models/Misc/church36m_red.ac -52.7955082 47.5186413 115.15 0
+OBJECT_SHARED Models/Misc/church36m_red.ac -52.7954454 47.5175996 116.83 0
+OBJECT_SHARED Models/Misc/church36m_blue2.ac -52.8013822 47.5167699 125.86 0
+OBJECT_SHARED Models/Misc/church36m_blue2.ac -52.8005661 47.5193681 119.88 0

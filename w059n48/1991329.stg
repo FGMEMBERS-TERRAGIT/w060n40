@@ -1,1 +1,4 @@
 OBJECT_SHARED Models/Communications/vordme_1.xml -58.669222 48.582522 321.16 180
+OBJECT_SHARED Models/Maritime/Misc/PhareCalais.ac -58.5347488 48.5162409 2.16 0
+OBJECT_SHARED Models/Maritime/Misc/PhareCreach.ac -58.5414284 48.5079098 -0.01 0
+OBJECT_SHARED Models/Maritime/Misc/PhareCreach.ac -58.5396441 48.5109049 1.22 0

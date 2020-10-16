@@ -1,1 +1,4 @@
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -53.0855801 48.7014292 11.35 0
+OBJECT_SHARED Models/Maritime/Misc/PhareCalais.ac -53.0855801 48.7014292 13.75 0
+OBJECT_SHARED Models/Maritime/Misc/PhareCreach.ac -53.1284271 48.6519106 -0.01 0
+OBJECT_SHARED Models/Maritime/Misc/PhareCreach.ac -53.1186632 48.6495745 0.65 0

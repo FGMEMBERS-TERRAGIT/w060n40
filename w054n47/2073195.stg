@@ -5,4 +5,8 @@ OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -53.2407778 47.6731944 0 244.13
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -53.2406944 47.6731667 0 221.1
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -53.2097222 47.6916667 -0.01 123.14
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -53.2041667 47.695 -0.01 200.7
+OBJECT_SHARED Models/Misc/breton-church.ac -53.2081923 47.6492671 -1000 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -53.20325 47.69375 -0.01 200.45
+OBJECT_SHARED Models/Maritime/Misc/PhareCalais.ac -53.214569 47.690114 0 0
+OBJECT_SHARED Models/Maritime/Misc/PhareCalais.ac -53.1418056 47.7117778 -0.35 0
+OBJECT_SHARED Models/Maritime/Misc/PhareCreach.ac -53.1643611 47.7396111 -0.02 0

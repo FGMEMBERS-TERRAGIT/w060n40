@@ -1,2 +1,5 @@
 OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -53.2612222 46.7045278 -0.01 58.75
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -53.3740278 46.7416389 6.33 239.61
+OBJECT_SHARED Models/Maritime/Misc/PhareCalais.ac -53.38275 46.7245556 0 0
+OBJECT_SHARED Models/Maritime/Misc/PhareCreach.ac -53.4017687 46.6886273 -0.04 0
+OBJECT_SHARED Models/Maritime/Misc/PhareCreach.ac -53.4011314 46.6897711 0 0
