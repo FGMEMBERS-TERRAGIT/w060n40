@@ -458,3 +458,8 @@ OBJECT_SHARED Models/lib/FireStationLg.ac -56.17791 46.76508 8.51 301.119
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -56.17849 46.76449 8.10 158.049
 OBJECT_SHARED Models/lib/RampParkingStripe.xml -56.17918 46.76443 8.42 159
 # END dsf2stg
+OBJECT_SHARED Models/Maritime/Misc/PhareCalais.ac -56.1661138 46.7813652 -0.01 0
+OBJECT_SHARED Models/Maritime/Misc/PhareCalais.ac -56.1539208 46.7651261 0 0
+OBJECT_SHARED Models/Maritime/Misc/PhareCalais.ac -56.1539083 46.7651452 0 0
+OBJECT_SHARED Models/Maritime/Misc/PhareCalais.ac -56.1483613 46.7985992 -0.06 0
+OBJECT_SHARED Models/Maritime/Misc/PhareCreach.ac -56.1545404 46.7817138 -0.02 0

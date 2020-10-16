@@ -1,1 +1,3 @@
 OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -53.1716667 47.7526667 -1.02 334.77
+OBJECT_SHARED Models/Misc/church36m_red.ac -53.2405356 47.7646287 53.9 0
+OBJECT_SHARED Models/Misc/church36m_blue.ac -53.1675848 47.7819591 4.87 0

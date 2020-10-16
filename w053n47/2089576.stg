@@ -1,3 +1,5 @@
 OBJECT_SHARED Models/Airport/ndb.ac -52.808447 47.669661 153.9 180
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -52.8347222 47.7227778 1.24 348.86
 OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -52.8586667 47.6263056 -2.41 0
+OBJECT_SHARED Models/Maritime/Misc/PhareCalais.ac -52.9163756 47.6550394 0 0
+OBJECT_SHARED Models/Maritime/Misc/PhareCreach.ac -52.8586667 47.6263056 -0.01 0

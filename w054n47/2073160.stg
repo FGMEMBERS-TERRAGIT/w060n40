@@ -1,1 +1,3 @@
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -53.9666667 47.2486389 0 200.51
+OBJECT_SHARED Models/Misc/breton-church.ac -53.9598724 47.2444372 0 0
+OBJECT_SHARED Models/Misc/church36m_red.ac -53.9605866 47.2460576 0.32 0
